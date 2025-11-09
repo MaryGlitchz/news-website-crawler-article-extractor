@@ -1,0 +1,6 @@
+{
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+  "timeout": 10,
+  "max_articles_per_site": 20,
+  "export_formats": ["json", "csv", "xml"]
+}
